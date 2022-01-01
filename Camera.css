@@ -182,7 +182,7 @@
 	width: 30px;
 }
 .camera_nextThumbs {
-	bottom: 0px;
+	bottom: 4px;
 	cursor: pointer;
 	position: absolute;
 	right: 0;
@@ -428,7 +428,7 @@
 }
 .camera_caption > div {
 	background: #000;
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(32, 47, 66, 0.81);
 }
 .camera_wrap .camera_pag .camera_pag_ul li {
 	background: #b7b7b7;
