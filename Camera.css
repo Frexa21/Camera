@@ -182,7 +182,7 @@
 	width: 30px;
 }
 .camera_nextThumbs {
-	bottom: 4px;
+	bottom: 0px;
 	cursor: pointer;
 	position: absolute;
 	right: 0;
